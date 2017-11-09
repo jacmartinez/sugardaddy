@@ -8,6 +8,4 @@ When my future husband dies a mysterious death i will become the inheritor of al
 
  <a href="contact.html">Contact</a>
 
- <a href=”about.html">About</a>
-
-</div>
+ </div>
